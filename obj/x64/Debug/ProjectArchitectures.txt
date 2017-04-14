@@ -1,0 +1,1 @@
+C:\Users\Tyler.sand12\Desktop\Windows-universal-samples-master\Samples\SimpleImaging\cs\SimpleImaging.csproj;x64
